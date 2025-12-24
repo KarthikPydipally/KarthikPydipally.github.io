@@ -1,15 +1,17 @@
 const images = [
-    "KarP_Portfolio_01.jpg",
-    "KarP_Portfolio_02.jpg",
-    "KarP_Portfolio_03.jpg",
-    "KarP_Portfolio_04.jpg",
-    "KarP_Portfolio_05.jpg",
-    "KarP_Portfolio_06.jpg",
-    "KarP_Portfolio_07.jpg",
-    "KarP_Portfolio_08.jpg",
-    "KarP_Portfolio_09.jpg",
-    "KarP_Portfolio_10.jpg",
-    "KarP_Portfolio_11.jpg"
+    "imgs/KarP_Portfolio_01.jpg",
+    "imgs/KarP_Portfolio_02.jpg",
+    "imgs/KarP_Portfolio_03.jpg",
+    "imgs/KarP_Portfolio_04.jpg",
+    "imgs/KarP_Portfolio_05.jpg",
+    "imgs/KarP_Portfolio_06.jpg",
+    "imgs/KarP_Portfolio_07.jpg",
+    "imgs/KarP_Portfolio_08.jpg",
+    "imgs/KarP_Portfolio_09.jpg",
+    "imgs/KarP_Portfolio_10.jpg",
+    "imgs/KarP_Portfolio_11.jpg",
+    "imgs/KarP_Portfolio_12.jpg",
+    "imgs/KarP_Portfolio_13.jpg"
 ];
 
 let currentIndex = 0;
@@ -39,3 +41,4 @@ function changeImage(direction) {
 
 // Initialize the display
 updateGallery();
+
